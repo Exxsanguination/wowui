@@ -1,0 +1,22 @@
+
+SellJunkDB = {
+	["char"] = {
+		["Shammyjay - Frostmourne"] = {
+			["auto"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Iflyplanes - Frostmourne"] = "Iflyplanes - Frostmourne",
+		["Judgedruidy - Frostmourne"] = "Judgedruidy - Frostmourne",
+		["Moosenuckle - Jubei'Thos"] = "Moosenuckle - Jubei'Thos",
+		["Skitfitta - Frostmourne"] = "Skitfitta - Frostmourne",
+		["Joeylose - Frostmourne"] = "Joeylose - Frostmourne",
+		["Hornydaemon - Frostmourne"] = "Hornydaemon - Frostmourne",
+		["Timmywin - Frostmourne"] = "Timmywin - Frostmourne",
+		["Malkidd - Frostmourne"] = "Malkidd - Frostmourne",
+		["Shammyjay - Frostmourne"] = "Shammyjay - Frostmourne",
+		["Driveparkway - Frostmourne"] = "Driveparkway - Frostmourne",
+		["Sheppanda - Frostmourne"] = "Sheppanda - Frostmourne",
+		["Defknight - Frostmourne"] = "Defknight - Frostmourne",
+	},
+}

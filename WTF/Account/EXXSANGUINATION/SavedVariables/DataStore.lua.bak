@@ -1,0 +1,82 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Iflyplanes - Frostmourne"] = "Iflyplanes - Frostmourne",
+		["Judgedruidy - Frostmourne"] = "Judgedruidy - Frostmourne",
+		["Moosenuckle - Jubei'Thos"] = "Moosenuckle - Jubei'Thos",
+		["Skitfitta - Frostmourne"] = "Skitfitta - Frostmourne",
+		["Shammyjay - Frostmourne"] = "Shammyjay - Frostmourne",
+		["Hornydaemon - Frostmourne"] = "Hornydaemon - Frostmourne",
+		["Sheppanda - Frostmourne"] = "Sheppanda - Frostmourne",
+		["Malkidd - Frostmourne"] = "Malkidd - Frostmourne",
+		["Joeylose - Frostmourne"] = "Joeylose - Frostmourne",
+		["Driveparkway - Frostmourne"] = "Driveparkway - Frostmourne",
+		["Timmywin - Frostmourne"] = "Timmywin - Frostmourne",
+		["Defknight - Frostmourne"] = "Defknight - Frostmourne",
+	},
+	["global"] = {
+		["Guilds"] = {
+			["Default.Frostmourne.In The Mountains"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.R A T B O Y S"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Deaths Glory"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.No Hope For Humanity"] = {
+				["faction"] = "Alliance",
+			},
+		},
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.Jubei'Thos.Moosenuckle"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Sheppanda"] = {
+				["faction"] = "Horde",
+				["guildName"] = "Deaths Glory",
+			},
+			["Default.Frostmourne.Timmywin"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Defknight"] = {
+				["faction"] = "Horde",
+				["guildName"] = "R A T B O Y S",
+			},
+			["Default.Frostmourne.Malkidd"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Skitfitta"] = {
+				["guildName"] = "In The Mountains",
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Joeylose"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Iflyplanes"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "In The Mountains",
+			},
+			["Default.Frostmourne.Driveparkway"] = {
+				["faction"] = "Horde",
+			},
+			["Default.Frostmourne.Shammyjay"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Hornydaemon"] = {
+				["guildName"] = "In The Mountains",
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmourne.Judgedruidy"] = {
+				["guildName"] = "No Hope For Humanity",
+				["faction"] = "Alliance",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["Frostmourne"] = "Frostmourne",
+			["Jubei'Thos"] = "Jubei'Thos",
+		},
+	},
+}

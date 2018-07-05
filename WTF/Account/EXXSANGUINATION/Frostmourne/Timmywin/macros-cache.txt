@@ -1,0 +1,18 @@
+VER 3 0100000000000004 "Leave" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/script LeaveParty()
+END
+VER 3 0100000000000003 "Shadow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click shadow
+END
+VER 3 0100000000000002 "sp1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click SP1
+END
+VER 3 0100000000000001 "Spriest" "INV_MISC_QUESTIONMARK"
+/castsequence reset=0.2 0,0,Mind Blast
+/castsequence reset=0.2 0,Shadow Word: Death
+/castsequence [nochanneling] reset=target/3 Shadow Word: Pain, Vampiric Touch, Mind Flay, Mind Flay, Mind Flay
+/cast !Power Infusion
+/cast Shadowfiend
+END

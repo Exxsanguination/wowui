@@ -1,0 +1,143 @@
+VER 3 0000000000000001 " NUKE" "Ability_Creature_Cursed_04"
+#showtooltip
+/cast Rapid Fire
+/cast Bestial Wrath
+/cast Stampede
+/cast Dire Beast
+/cast Readiness
+END
+VER 3 0000000000000010 "Arcane/Dire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl]A Murder of Crows ; Arcane Shot
+END
+VER 3 0000000000000018 "BarrageMulti" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Barrage; Multi-Shot
+END
+VER 3 000000000000001B "BindingConc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Binding Shot; Concussive Shot
+END
+VER 3 0000000000000011 "CobraKill" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Kill Shot; Cobra Shot
+END
+VER 3 000000000000002A "COMBAT TEXT" "INV_MISC_QUESTIONMARK"
+/console floatingCombatTextCombatDamage 1/console floatingCombatTextCombatHealing 1
+END
+VER 3 0000000000000026 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Nature's Cure;  [@mouseover,exists,mod:ctrl] Nature's Cure; [@mouseover,exists,mod:shift] Nature's Cure
+END
+VER 3 000000000000001A "DeteranceDisenga" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Deterrence; Disengage
+END
+VER 3 0000000000000020 "Explo/Focusing" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Black Arrow; Cobra Shot
+END
+VER 3 0000000000000013 "Feign/Counter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Feign Death; Counter Shot
+END
+VER 3 0000000000000022 "Fire/Black" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Explosive Trap; Explosive Shot
+END
+VER 3 000000000000001F "FLAMETHROWER" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+/stopcasting Flamethrower
+END
+VER 3 000000000000001D "FlareDistract" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Flare; Distracting Shot
+END
+VER 3 0000000000000023 "FOLLOW" "134167"
+/focus Taytaytay
+/Follow Taytaytay
+END
+VER 3 000000000000001E "Glaive/Multi" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Glaive Toss; Multi-Shot
+END
+VER 3 0000000000000014 "Kill/Wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Dire Beast; Kill Command
+END
+VER 3 0000000000000016 "KillSteady" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Kill Shot; Steady Shot
+END
+VER 3 0000000000000025 "lfg" "INV_MISC_QUESTIONMARK"
+/1 LFG
+END
+VER 3 0000000000000005 "MDpet" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomodifier, target=pet, nodead, exists, help] Misdirection
+/cast [modifier:shift, target=focus, nodead, exists] Misdirection
+/cast Misdirection
+END
+VER 3 0000000000000012 "Multi/Glaive" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Glaive Toss; Multi-Shot
+END
+VER 3 0000000000000021 "Murder" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] A Murder of Crows; Aimed Shot
+END
+VER 3 0000000000000017 "MurderAimed" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] A Murder of Crows; Aimed Shot
+END
+VER 3 000000000000002C "NO pot" "INV_MISC_QUESTIONMARK"
+/use Gnawed Thumb Ring
+/Cast Incarnation: Chosen of Elune
+END
+VER 3 0000000000000019 "RapidChimera" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Rapid Fire; Chimaera Shot
+END
+VER 3 0000000000000024 "RELOAD" "INV_HAMMER_07.BLP"
+/reload ui
+END
+VER 3 000000000000002D "ring" "INV_MISC_QUESTIONMARK"
+/USE Immolation Aura
+/use Ring of Collapsing Futures
+END
+VER 3 0000000000000015 "Serpent/Kill" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Kill Shot; Serpent Sting
+END
+VER 3 0000000000000007 "SHAMBLING" "INV_Misc_QuestionMark"
+#showtooltip
+/target Shambling Horror
+/cast Tranquilizing Shot
+/target The Lich King
+END
+VER 3 0000000000000028 "TAR HORROR" "INV_CHEST_LEATHER_07"
+/tar inconceivable horror
+/tar xavius
+END
+VER 3 0000000000000027 "TARGET" "INV_MISC_QUESTIONMARK"
+/tar dread
+END
+VER 3 000000000000001C "TranqCounter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shiftl] Tranquilizing Shot; Freezing Trap
+END
+VER 3 0000000000000029 "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMVendoringSellAllButton
+/click TSMShoppingCancelConfirmationButton
+/click TSMAuctioningCancelButton
+/click TSMCraftNextButton
+/click TSMShoppingBuyoutConfirmationButton
+/click TSMAuctioningPostButton
+/click TSMShoppingBuyoutButton
+/click TSMDestr
+END
+VER 3 000000000000002B "W/Pot" "INV_MISC_QUESTIONMARK"
+/use Gnawed Thumb Ring
+/Cast Incarnation: Chosen of Elune
+/use Potion Of Deadly Grace
+END

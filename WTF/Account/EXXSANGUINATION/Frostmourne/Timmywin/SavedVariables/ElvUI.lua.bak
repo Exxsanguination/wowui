@@ -1,0 +1,251 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/logout", -- [1]
+		"/elvui", -- [2]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"Want to join an up-and-coming Social Guild, Memes and banter ensued? WE WANT YOU!", -- [1]
+			"Frogdor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Frogdor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1477, -- [11]
+			"Player-3725-0A9D7CB4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Frogdor",
+			[51] = 1528678646,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [1]
+		{
+			"[WQGF] Ulgthax: World Quest Complete! :)", -- [1]
+			"Timmywin-Frostmourne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Timmywin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1997, -- [11]
+			"Player-3725-09D6E453", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Timmywin",
+			[51] = 1530583391,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [2]
+		{
+			"[WQA] Quest 'Ulgthax' complete!", -- [1]
+			"Kerkeci-Lothar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kerkeci-Lothar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1998, -- [11]
+			"Player-68-0B4C3C96", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Kerkeci-Lothar",
+			[51] = 1530583392,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [3]
+		{
+			"[WQGF] Zar'teth: World Quest Complete! :)", -- [1]
+			"Timmywin-Frostmourne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Timmywin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2027, -- [11]
+			"Player-3725-09D6E453", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Timmywin",
+			[51] = 1530583669,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [4]
+		{
+			"[WQGF] Ravaged Dreams: World Quest Complete! :)", -- [1]
+			"Bbqshaman-Zul'jin", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bbqshaman-Zul'jin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2084, -- [11]
+			"Player-61-0A7AED31", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bbqshaman-Zul'jin",
+			[51] = 1530583879,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [5]
+		{
+			"[WQGF] The Taste of Corruption: World Quest Complete! :)", -- [1]
+			"Timmywin-Frostmourne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Timmywin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2130, -- [11]
+			"Player-3725-09D6E453", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Timmywin",
+			[51] = 1530584268,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [6]
+		{
+			"[WQGF] Nez'val: World Quest Complete! :)", -- [1]
+			"Sukmytotum-Fizzcrank", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sukmytotum-Fizzcrank", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2144, -- [11]
+			"Player-106-099A239D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sukmytotum-Fizzcrank",
+			[51] = 1530584354,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [7]
+		{
+			"[WQGF] Nez'val: ¡Misión de mundo completada! :)", -- [1]
+			"ßlackstar-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"ßlackstar-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2145, -- [11]
+			"Player-1427-027F9CE0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "ßlackstar-Ragnaros",
+			[51] = 1530584354,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [8]
+		{
+			"[WQGF] Nez'val: World Quest Complete! :)", -- [1]
+			"Timmywin-Frostmourne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Timmywin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2150, -- [11]
+			"Player-3725-09D6E453", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Timmywin",
+			[51] = 1530584355,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [9]
+		{
+			"(Gia): [WQGF] The Fel and the Fawns: World Quest Complete! :)", -- [1]
+			"Maleifcent-Dalaran", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maleifcent-Dalaran", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2198, -- [11]
+			"Player-3683-082EDB9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Maleifcent-Dalaran",
+			[51] = 1530584508,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [10]
+		{
+			"[WQGF] The Fel and the Fawns: World Quest Complete! :)", -- [1]
+			"Timmywin-Frostmourne", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Timmywin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2207, -- [11]
+			"Player-3725-09D6E453", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Timmywin",
+			[51] = 1530584515,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [11]
+	},
+}

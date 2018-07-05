@@ -1,0 +1,44 @@
+VER 3 0100000000000001 "AV quests" "Ability_Seal"
+/click QuestFrameCompleteButton
+/click QuestFrameCompleteQuestButton
+END
+VER 3 0100000000000005 "HUG" "INV_Misc_QuestionMark"
+/love
+END
+VER 3 0100000000000004 "illhoof" "Ability_CheapShot"
+/tar demon
+END
+VER 3 0100000000000007 "MDH Misdirection" "Ability_Hunter_Misdirection"
+#showtooltip
+/cast [mod:shift,@none][@focus,nodead,exists] Misdirection; Misdirection
+END
+VER 3 0100000000000003 "Misdirection" "Ability_Hunter_Misdirection"
+/script Misdirectionhelper_Cooldown()
+#showtooltip Misdirection
+/cast [button:2] Misdirection
+/stopmacro [button:2]
+/cast [help] Misdirection
+/stopmacro [help]
+/target JoeyLuvRanga
+/cast Misdirection
+/targetlasttarget
+END
+VER 3 0100000000000002 "quest" "INV_Misc_QuestionMark"
+/script SelectGossipAvailableQuest(1)
+/script CompleteQuest()
+/script GetQuestReward()
+END
+VER 3 0100000000000006 "ROLL" "INV_Misc_QuestionMark"
+/roll
+END
+VER 3 0100000000000008 "tar" "INV_MISC_QUESTIONMARK"
+/tar Arcturis
+/tar Loque'nahak
+/tar Gondria
+/tar Skoll
+/tar Ghostcrawler
+/tar Karoma
+/tar Ban'thalos
+/tar Ankha
+/tar Magria
+END

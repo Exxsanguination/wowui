@@ -1,0 +1,41 @@
+VER 3 010000000000000B "Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/Cast Charm of the Rising Tide 
+/Cast Incarnation: chosen of elune
+/cast Celestial alignment
+END
+VER 3 0100000000000009 "Cure" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Nature's Cure
+END
+VER 3 0100000000000002 "Displace Boomkin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence displacer beast, moonkin form
+END
+VER 3 0100000000000007 "Efflorescence" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Efflorescence
+END
+VER 3 0100000000000008 "IronB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Ironbark
+END
+VER 3 0100000000000006 "LifeB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Lifebloom
+END
+VER 3 0100000000000004 "Regrow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Regrowth
+END
+VER 3 0100000000000003 "Rejuv" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Rejuvenation
+END
+VER 3 0100000000000005 "Swift" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Swiftmend
+END
+VER 3 010000000000000A "Touch" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Healing Touch
+END

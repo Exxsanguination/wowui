@@ -1,0 +1,6733 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001337,
+							["damage_from"] = {
+								["Uul'gyneth"] = true,
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+								["Uul'gyneth"] = 13925417,
+							},
+							["total"] = 13925417.001337,
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["on_hold"] = false,
+							["classe"] = "HUNTER",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 12131509.001337,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1525907421,
+							["friendlyfire_total"] = 0,
+							["spec"] = 254,
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[212621] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 1562870,
+										["g_amt"] = 0,
+										["n_max"] = 219576,
+										["targets"] = {
+											["Uul'gyneth"] = 2181847,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 618977,
+										["n_min"] = 184246,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 2181847,
+										["c_max"] = 410134,
+										["id"] = 212621,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 366947,
+									},
+									[120361] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 156575,
+										["g_amt"] = 0,
+										["n_max"] = 28389,
+										["targets"] = {
+											["Uul'gyneth"] = 666819,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 510244,
+										["n_min"] = 23071,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 666819,
+										["c_max"] = 55877,
+										["id"] = 120361,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 20,
+										["r_amt"] = 0,
+										["c_min"] = 50148,
+									},
+									[194599] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 397350,
+										["g_amt"] = 0,
+										["n_max"] = 61778,
+										["targets"] = {
+											["Uul'gyneth"] = 1200452,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 803102,
+										["n_min"] = 61777,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 1200452,
+										["c_max"] = 132450,
+										["id"] = 194599,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 13,
+										["r_amt"] = 0,
+										["c_min"] = 132450,
+									},
+									[19434] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1801579,
+										["g_amt"] = 0,
+										["n_max"] = 292203,
+										["targets"] = {
+											["Uul'gyneth"] = 3585040,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1783461,
+										["n_min"] = 146328,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 3585040,
+										["c_max"] = 668655,
+										["id"] = 19434,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 529171,
+									},
+									[75] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 270805,
+										["g_amt"] = 0,
+										["n_max"] = 25041,
+										["targets"] = {
+											["Uul'gyneth"] = 803680,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 532875,
+										["n_min"] = 20331,
+										["g_dmg"] = 0,
+										["counter"] = 29,
+										["total"] = 803680,
+										["c_max"] = 47637,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 23,
+										["r_amt"] = 0,
+										["c_min"] = 42615,
+									},
+									[204147] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 236405,
+										["targets"] = {
+											["Uul'gyneth"] = 236405,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 236405,
+										["n_min"] = 236405,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 236405,
+										["c_max"] = 0,
+										["id"] = 204147,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[191043] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 293778,
+										["g_amt"] = 0,
+										["n_max"] = 39415,
+										["targets"] = {
+											["Uul'gyneth"] = 589394,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 295616,
+										["n_min"] = 34706,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 589394,
+										["c_max"] = 83167,
+										["id"] = 191043,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 68815,
+									},
+									[242712] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 387980,
+										["g_amt"] = 0,
+										["n_max"] = 95093,
+										["targets"] = {
+											["Uul'gyneth"] = 578166,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 190186,
+										["n_min"] = 95093,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 578166,
+										["c_max"] = 193990,
+										["id"] = 242712,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 193990,
+									},
+									[214581] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1260161,
+										["g_amt"] = 0,
+										["n_max"] = 205909,
+										["targets"] = {
+											["Uul'gyneth"] = 2289706,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1029545,
+										["n_min"] = 205909,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 2289706,
+										["c_max"] = 420054,
+										["id"] = 214581,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 420053,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3725-01B1FA45",
+							["last_dps"] = 180563.483848143,
+							["custom"] = 0,
+							["last_event"] = 1525907421,
+							["damage_taken"] = 2289176.001337,
+							["start_time"] = 1525907344,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.008304,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0E005486D9",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Uul'gyneth"] = 1427920,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1427920.008304,
+							["dps_started"] = false,
+							["total"] = 1427920.008304,
+							["classe"] = "PET",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 214433,
+										["g_amt"] = 0,
+										["n_max"] = 14894,
+										["targets"] = {
+											["Uul'gyneth"] = 675505,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 461072,
+										["n_min"] = 11512,
+										["g_dmg"] = 0,
+										["counter"] = 44,
+										["total"] = 675505,
+										["c_max"] = 28261,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 36,
+										["r_amt"] = 0,
+										["c_min"] = 25187,
+									}, -- [1]
+									[17253] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 156458,
+										["g_amt"] = 0,
+										["n_max"] = 30898,
+										["targets"] = {
+											["Uul'gyneth"] = 637796,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 481338,
+										["n_min"] = 19280,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 637796,
+										["c_max"] = 58306,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 19,
+										["r_amt"] = 0,
+										["c_min"] = 40496,
+									},
+									[63900] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 25865,
+										["g_amt"] = 0,
+										["n_max"] = 12680,
+										["targets"] = {
+											["Uul'gyneth"] = 114619,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 88754,
+										["n_min"] = 12679,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 114619,
+										["c_max"] = 25865,
+										["id"] = 63900,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 25865,
+									},
+									[53148] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Uul'gyneth"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["IMMUNE"] = 1,
+										["id"] = 53148,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525907421,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.008304,
+							["start_time"] = 1525907345,
+							["delay"] = 0,
+							["last_event"] = 1525907420,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.004919,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000737F90",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Uul'gyneth"] = 365988,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 365988.004919,
+							["dps_started"] = false,
+							["total"] = 365988.004919,
+							["classe"] = "PET",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 124619,
+										["g_amt"] = 0,
+										["n_max"] = 16595,
+										["targets"] = {
+											["Uul'gyneth"] = 365988,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 241369,
+										["n_min"] = 13791,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 365988,
+										["c_max"] = 33853,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 29117,
+									}, -- [1]
+									[204683] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Uul'gyneth"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 0,
+										["c_max"] = 0,
+										["IMMUNE"] = 4,
+										["id"] = 204683,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525907421,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004919,
+							["start_time"] = 1525907382,
+							["delay"] = 1525907378,
+							["last_event"] = 1525907418,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 31,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.005905,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Joeylose"] = true,
+							},
+							["targets_overheal"] = {
+								["Joeylose"] = 4816,
+							},
+							["targets"] = {
+								["Joeylose"] = 229897,
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Joeylose"] = 4816,
+										},
+										["n_max"] = 18173,
+										["targets"] = {
+											["Joeylose"] = 229897,
+										},
+										["n_min"] = 410,
+										["counter"] = 54,
+										["overheal"] = 4816,
+										["total"] = 229897,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 229897,
+										["n_amt"] = 54,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["totalover_without_pet"] = 0.005905,
+							["iniciar_hps"] = false,
+							["healing_taken"] = 229897.005905,
+							["totalover"] = 36599.005905,
+							["total_without_pet"] = 229897.005905,
+							["end_time"] = 1525907421,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 229897.005905,
+							["classe"] = "HUNTER",
+							["start_time"] = 1525907344,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["custom"] = 0,
+							["last_event"] = 1525907421,
+							["on_hold"] = false,
+							["totaldenied"] = 0.005905,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorb"] = 0.002181,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Franklin <Joeylose>"] = 26437,
+							},
+							["targets"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Franklin <Joeylose>"] = 26437,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Franklin <Joeylose>"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 14,
+										["overheal"] = 26437,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 14,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["healing_taken"] = 0.002181,
+							["totalover"] = 26437.002181,
+							["total_without_pet"] = 0.002181,
+							["start_time"] = 1525907349,
+							["totalover_without_pet"] = 0.002181,
+							["classe"] = "PET",
+							["total"] = 0.002181,
+							["end_time"] = 1525907421,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["heal_enemy_amt"] = 0,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["serial"] = "Pet-0-3888-1220-12884-4143-0E005486D9",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["totaldenied"] = 0.002181,
+							["delay"] = 0,
+							["last_event"] = 1525907417,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorb"] = 0.007803,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Dark Minion <Joeylose>"] = 5346,
+							},
+							["targets"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Dark Minion <Joeylose>"] = 5346,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Dark Minion <Joeylose>"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 5346,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["healing_taken"] = 0.007803,
+							["totalover"] = 5346.007803,
+							["total_without_pet"] = 0.007803,
+							["start_time"] = 1525907416,
+							["totalover_without_pet"] = 0.007803,
+							["classe"] = "PET",
+							["total"] = 0.007803,
+							["end_time"] = 1525907421,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["heal_enemy_amt"] = 0,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000737F90",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["totaldenied"] = 0.007803,
+							["delay"] = 1525907401,
+							["last_event"] = 1525907416,
+						}, -- [3]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 31,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 160.00227,
+							["resource"] = 35.00227,
+							["targets"] = {
+								["Joeylose"] = 160,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "HUNTER",
+							["fight_component"] = true,
+							["total"] = 160.00227,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["resource_type"] = 5,
+							["flag_original"] = 1297,
+							["last_event"] = 1525907387,
+							["alternatepower"] = 0.00227,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[214579] = {
+										["id"] = 214579,
+										["total"] = 160,
+										["targets"] = {
+											["Joeylose"] = 160,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 31,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[194599] = {
+										["activedamt"] = 0,
+										["id"] = 194599,
+										["targets"] = {
+										},
+										["uptime"] = 32,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[187131] = {
+										["activedamt"] = 0,
+										["id"] = 187131,
+										["targets"] = {
+										},
+										["uptime"] = 66,
+										["appliedamt"] = 17,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[242712] = {
+										["activedamt"] = 0,
+										["id"] = 242712,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[185365] = {
+										["activedamt"] = 0,
+										["id"] = 185365,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 7,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 316,
+							["classe"] = "HUNTER",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186401] = {
+										["activedamt"] = 1,
+										["id"] = 186401,
+										["targets"] = {
+										},
+										["uptime"] = 77,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[120360] = {
+										["activedamt"] = 3,
+										["id"] = 120360,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[190515] = {
+										["activedamt"] = 2,
+										["id"] = 190515,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93827] = {
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["targets"] = {
+										},
+										["uptime"] = 77,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193534] = {
+										["activedamt"] = 2,
+										["id"] = 193534,
+										["targets"] = {
+										},
+										["uptime"] = 72,
+										["appliedamt"] = 2,
+										["refreshamt"] = 7,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204477] = {
+										["activedamt"] = 1,
+										["id"] = 204477,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204090] = {
+										["activedamt"] = 3,
+										["id"] = 204090,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 3,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[118922] = {
+										["activedamt"] = 2,
+										["id"] = 118922,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223138] = {
+										["activedamt"] = 8,
+										["id"] = 223138,
+										["targets"] = {
+										},
+										["uptime"] = 45,
+										["appliedamt"] = 8,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 120,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 254,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[185901] = 7,
+								[186070] = 4,
+								[19434] = 10,
+								[781] = 2,
+								[194599] = 4,
+								[120360] = 3,
+								[214579] = 8,
+								[204147] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1525907421,
+							["nome"] = "Joeylose",
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[61685] = 1,
+								[17253] = 22,
+								[63900] = 8,
+							},
+							["serial"] = "Pet-0-3888-1220-12884-4143-0E005486D9",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[204683] = 4,
+							},
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000737F90",
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joeylose"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Uul'gyneth",
+				["combat_counter"] = 52,
+				["playing_solo"] = true,
+				["totals"] = {
+					13925416.96438, -- [1]
+					229897, -- [2]
+					{
+						0, -- [1]
+						[0] = 160,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Joeylose"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							599727, -- [3]
+							1525907613.296, -- [4]
+							2087373, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joeylose"] = 229897.005905,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Joeylose"] = 13925417.001337,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 56357.853,
+				["combat_id"] = 31,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Baine's Totem"] = 2,
+					["Uul'gyneth"] = 1,
+				},
+				["data_fim"] = "09:10:21",
+				["data_inicio"] = "09:09:04",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					12131509, -- [1]
+					229897, -- [2]
+					{
+						0, -- [1]
+						[0] = 160,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 56280.731,
+				["contra"] = "Uul'gyneth",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.001805,
+							["damage_from"] = {
+								["Shadow Lurker <Necrodark Defiler>"] = true,
+								["Necrodark Defiler"] = true,
+							},
+							["targets"] = {
+								["Shadow Lurker <Necrodark Defiler>"] = 3235587,
+								["Necrodark Defiler"] = 5811635,
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 7951728.001805,
+							["end_time"] = 1525907285,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 9047222.001805,
+							["classe"] = "HUNTER",
+							["on_hold"] = false,
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[120361] = {
+										["c_amt"] = 11,
+										["b_amt"] = 0,
+										["c_dmg"] = 755048,
+										["g_amt"] = 0,
+										["n_max"] = 25138,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 374232,
+											["Necrodark Defiler"] = 1173653,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 792837,
+										["n_min"] = 24177,
+										["g_dmg"] = 0,
+										["counter"] = 43,
+										["total"] = 1547885,
+										["c_max"] = 76551,
+										["id"] = 120361,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 32,
+										["r_amt"] = 0,
+										["c_min"] = 49569,
+									},
+									[214581] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 2310295,
+										["g_amt"] = 0,
+										["n_max"] = 205909,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 1886123,
+											["Necrodark Defiler"] = 1453713,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1029541,
+										["n_min"] = 205908,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 3339836,
+										["c_max"] = 630081,
+										["id"] = 214581,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 420054,
+									},
+									[75] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 134068,
+										["g_amt"] = 0,
+										["n_max"] = 22212,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 21737,
+											["Necrodark Defiler"] = 373649,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 261318,
+										["n_min"] = 21464,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 395386,
+										["c_max"] = 45203,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 43914,
+									},
+									[186387] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12344,
+										["targets"] = {
+											["Necrodark Defiler"] = 12344,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12344,
+										["n_min"] = 12344,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12344,
+										["c_max"] = 0,
+										["id"] = 186387,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[194599] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 334214,
+										["g_amt"] = 0,
+										["n_max"] = 61777,
+										["targets"] = {
+											["Necrodark Defiler"] = 519545,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 185331,
+										["n_min"] = 61777,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 519545,
+										["c_max"] = 201764,
+										["id"] = 194599,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 132450,
+									},
+									[212621] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 778577,
+										["g_amt"] = 0,
+										["n_max"] = 192905,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 778577,
+											["Necrodark Defiler"] = 573607,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 573607,
+										["n_min"] = 187971,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 1352184,
+										["c_max"] = 395125,
+										["id"] = 212621,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 383452,
+									},
+									[19434] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 245600,
+										["targets"] = {
+											["Necrodark Defiler"] = 784548,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 784548,
+										["n_min"] = 141009,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 784548,
+										["c_max"] = 0,
+										["id"] = 19434,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 254,
+							["serial"] = "Player-3725-01B1FA45",
+							["last_dps"] = 219092.894895254,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 738971.001805,
+							["start_time"] = 1525907243,
+							["delay"] = 0,
+							["last_event"] = 1525907283,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.004076,
+							["damage_from"] = {
+								["Shadow Lurker <Necrodark Defiler>"] = true,
+								["Necrodark Defiler"] = true,
+							},
+							["targets"] = {
+								["Shadow Lurker <Necrodark Defiler>"] = 115881,
+								["Necrodark Defiler"] = 774444,
+							},
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 890325.004076,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0E005486D9",
+							["end_time"] = 1525907285,
+							["dps_started"] = false,
+							["total"] = 890325.004076,
+							["on_hold"] = false,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 124428,
+										["g_amt"] = 0,
+										["n_max"] = 15249,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 27448,
+											["Necrodark Defiler"] = 368407,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 271427,
+										["n_min"] = 12198,
+										["g_dmg"] = 0,
+										["counter"] = 27,
+										["total"] = 395855,
+										["c_max"] = 24886,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 22,
+										["r_amt"] = 0,
+										["c_min"] = 24885,
+									}, -- [1]
+									[63900] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 103462,
+										["g_amt"] = 0,
+										["n_max"] = 12679,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 63902,
+											["Necrodark Defiler"] = 102955,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 63395,
+										["n_min"] = 12679,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 166857,
+										["c_max"] = 25866,
+										["id"] = 63900,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 25865,
+									},
+									[17253] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 108199,
+										["g_amt"] = 0,
+										["n_max"] = 27382,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 24531,
+											["Necrodark Defiler"] = 303082,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 219414,
+										["n_min"] = 21432,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 327613,
+										["c_max"] = 55432,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 52767,
+									},
+								},
+							},
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525907282,
+							["damage_taken"] = 1265056.004076,
+							["start_time"] = 1525907243,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.005361,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000737F3C",
+							["damage_from"] = {
+								["Shadow Lurker <Necrodark Defiler>"] = true,
+								["Necrodark Defiler"] = true,
+							},
+							["targets"] = {
+								["Shadow Lurker <Necrodark Defiler>"] = 59037,
+								["Necrodark Defiler"] = 146132,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 205169.005361,
+							["dps_started"] = false,
+							["total"] = 205169.005361,
+							["classe"] = "PET",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 29811,
+										["g_amt"] = 0,
+										["n_max"] = 14614,
+										["targets"] = {
+											["Shadow Lurker <Necrodark Defiler>"] = 59037,
+											["Necrodark Defiler"] = 146132,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 175358,
+										["n_min"] = 14613,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["total"] = 205169,
+										["c_max"] = 29811,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 29811,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525907285,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 109199.005361,
+							["start_time"] = 1525907262,
+							["delay"] = 0,
+							["last_event"] = 1525907283,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 30,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1300,
+							["targets_overheal"] = {
+								["Joeylose"] = 4316,
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "HUNTER",
+							["totalover"] = 5401.003471,
+							["total_without_pet"] = 916474.003471,
+							["total"] = 933871.003471,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3725-01B1FA45",
+							["totalabsorb"] = 0.003471,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Joeylose"] = 164086,
+								["Franklin <Joeylose>"] = 768371,
+								["Dark Minion <Joeylose>"] = 1414,
+							},
+							["totalover_without_pet"] = 0.003471,
+							["healing_taken"] = 164086.003471,
+							["fight_component"] = true,
+							["end_time"] = 1525907285,
+							["start_time"] = 1525907244,
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Joeylose"] = 4316,
+										},
+										["n_max"] = 40555,
+										["targets"] = {
+											["Joeylose"] = 164086,
+										},
+										["n_min"] = 239,
+										["counter"] = 30,
+										["overheal"] = 4316,
+										["total"] = 164086,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 164086,
+										["n_amt"] = 30,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[136] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 150478,
+										["targets"] = {
+											["Franklin <Joeylose>"] = 752388,
+										},
+										["n_min"] = 150477,
+										["counter"] = 5,
+										["overheal"] = 0,
+										["total"] = 752388,
+										["c_max"] = 0,
+										["id"] = 136,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 752388,
+										["n_amt"] = 5,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["healing_from"] = {
+								["Joeylose"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 254,
+							["totaldenied"] = 0.003471,
+							["delay"] = 0,
+							["last_event"] = 1525907282,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["healing_from"] = {
+								["Franklin <Joeylose>"] = true,
+								["Joeylose"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "PET",
+							["totalover"] = 236.006737,
+							["total_without_pet"] = 15983.006737,
+							["total"] = 15983.006737,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0E005486D9",
+							["totalabsorb"] = 0.006737,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Franklin <Joeylose>"] = 15983,
+							},
+							["totalover_without_pet"] = 0.006737,
+							["healing_taken"] = 768371.006737,
+							["fight_component"] = true,
+							["end_time"] = 1525907285,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Franklin <Joeylose>"] = 236,
+										},
+										["n_max"] = 2665,
+										["targets"] = {
+											["Franklin <Joeylose>"] = 15983,
+										},
+										["n_min"] = 1877,
+										["counter"] = 8,
+										["overheal"] = 236,
+										["total"] = 15983,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 15983,
+										["n_amt"] = 8,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["targets_overheal"] = {
+								["Franklin <Joeylose>"] = 236,
+							},
+							["start_time"] = 1525907244,
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525907280,
+							["totaldenied"] = 0.006737,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["healing_from"] = {
+								["Dark Minion <Joeylose>"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "PET",
+							["totalover"] = 849.006095,
+							["total_without_pet"] = 1414.006095,
+							["total"] = 1414.006095,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000737F3C",
+							["totalabsorb"] = 0.006095,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Dark Minion <Joeylose>"] = 1414,
+							},
+							["totalover_without_pet"] = 0.006095,
+							["healing_taken"] = 1414.006095,
+							["fight_component"] = true,
+							["end_time"] = 1525907285,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Dark Minion <Joeylose>"] = 849,
+										},
+										["n_max"] = 1414,
+										["targets"] = {
+											["Dark Minion <Joeylose>"] = 1414,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 849,
+										["total"] = 1414,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1414,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["targets_overheal"] = {
+								["Dark Minion <Joeylose>"] = 849,
+							},
+							["start_time"] = 1525907279,
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525907279,
+							["totaldenied"] = 0.006095,
+							["delay"] = 1525907267,
+							["tipo"] = 2,
+						}, -- [3]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 30,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 40.006627,
+							["resource"] = 0.006627,
+							["targets"] = {
+								["Joeylose"] = 40,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "HUNTER",
+							["fight_component"] = true,
+							["total"] = 40.006627,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1525907267,
+							["alternatepower"] = 0.006627,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[214579] = {
+										["id"] = 214579,
+										["total"] = 40,
+										["targets"] = {
+											["Joeylose"] = 40,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 30,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[185365] = {
+										["activedamt"] = 0,
+										["id"] = 185365,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 6,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[187131] = {
+										["activedamt"] = 0,
+										["id"] = 187131,
+										["targets"] = {
+										},
+										["uptime"] = 29,
+										["appliedamt"] = 14,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[224729] = {
+										["activedamt"] = 0,
+										["id"] = 224729,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[194599] = {
+										["activedamt"] = 0,
+										["id"] = 194599,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 214,
+							["classe"] = "HUNTER",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186401] = {
+										["activedamt"] = 1,
+										["id"] = 186401,
+										["targets"] = {
+										},
+										["uptime"] = 42,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[120360] = {
+										["activedamt"] = 1,
+										["id"] = 120360,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204090] = {
+										["activedamt"] = 2,
+										["id"] = 204090,
+										["targets"] = {
+										},
+										["uptime"] = 19,
+										["appliedamt"] = 2,
+										["refreshamt"] = 14,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93827] = {
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["targets"] = {
+										},
+										["uptime"] = 42,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193534] = {
+										["activedamt"] = 1,
+										["id"] = 193534,
+										["targets"] = {
+										},
+										["uptime"] = 34,
+										["appliedamt"] = 1,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[35079] = {
+										["activedamt"] = 1,
+										["id"] = 35079,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186257] = {
+										["activedamt"] = 1,
+										["id"] = 186257,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[191342] = {
+										["activedamt"] = 1,
+										["id"] = 191342,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186258] = {
+										["activedamt"] = 1,
+										["id"] = 186258,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193526] = {
+										["activedamt"] = 1,
+										["id"] = 193526,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223138] = {
+										["activedamt"] = 5,
+										["id"] = 223138,
+										["targets"] = {
+										},
+										["uptime"] = 25,
+										["appliedamt"] = 5,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cc_break"] = 1.007313,
+							["fight_component"] = true,
+							["debuff_uptime"] = 59,
+							["cc_break_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[75] = {
+										["cc_break_oque"] = {
+											[224729] = 1,
+										},
+										["id"] = 75,
+										["cc_break"] = 1,
+										["targets"] = {
+											["Necrodark Defiler"] = 1,
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 254,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[34477] = 1,
+								[193526] = 1,
+								[120360] = 1,
+								[186257] = 1,
+								[214579] = 4,
+								[19434] = 4,
+								[186070] = 3,
+								[186387] = 1,
+								[136] = 1,
+								[194599] = 3,
+								[185901] = 3,
+								[147362] = 1,
+							},
+							["cc_break_oque"] = {
+								[224729] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1525907285,
+							["nome"] = "Joeylose",
+							["cc_break_targets"] = {
+								["Necrodark Defiler"] = 1,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[204683] = 3,
+							},
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000737F3C",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joeylose"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Necrodark Defiler",
+				["combat_counter"] = 51,
+				["playing_solo"] = true,
+				["totals"] = {
+					9047221.98259, -- [1]
+					933871, -- [2]
+					{
+						0, -- [1]
+						[0] = 40,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joeylose"] = 933871.003471,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Joeylose"] = 9047222.001805,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 56221.642,
+				["combat_id"] = 30,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Shadow Lurker"] = 2,
+					["Necrodark Defiler"] = 2,
+				},
+				["data_fim"] = "09:08:05",
+				["data_inicio"] = "09:07:24",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					7951728, -- [1]
+					916474, -- [2]
+					{
+						0, -- [1]
+						[0] = 40,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 56180.348,
+				["contra"] = "Necrodark Defiler",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 29,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003097,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Necrodark Greysworn"] = 3149759,
+								["Dark Tendril"] = 2434516,
+								["Frozen Mist"] = 1704467,
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 6760561.003097,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1525878904,
+							["classe"] = "HUNTER",
+							["spec"] = 254,
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["_ActorTable"] = {
+									[212621] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 776817,
+										["g_amt"] = 0,
+										["n_max"] = 195097,
+										["targets"] = {
+											["Necrodark Greysworn"] = 384583,
+											["Dark Tendril"] = 580811,
+											["Frozen Mist"] = 583550,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 772127,
+										["n_min"] = 190548,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1548944,
+										["c_max"] = 388453,
+										["id"] = 212621,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 388364,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[191070] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 272186,
+										["g_amt"] = 0,
+										["n_max"] = 66713,
+										["targets"] = {
+											["Frozen Mist"] = 272186,
+											["Dark Tendril"] = 133425,
+											["Necrodark Greysworn"] = 133424,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 266849,
+										["n_min"] = 66712,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 539035,
+										["c_max"] = 136093,
+										["id"] = 191070,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 136093,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[194599] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 132451,
+										["g_amt"] = 0,
+										["n_max"] = 61777,
+										["targets"] = {
+											["Dark Tendril"] = 317782,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 185331,
+										["n_min"] = 61777,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 317782,
+										["c_max"] = 132451,
+										["id"] = 194599,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 132451,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[19434] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 322717,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Necrodark Greysworn"] = 322717,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 322717,
+										["c_max"] = 322717,
+										["id"] = 19434,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 322717,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[75] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 45146,
+										["g_amt"] = 0,
+										["n_max"] = 22205,
+										["targets"] = {
+											["Dark Tendril"] = 88220,
+											["Necrodark Greysworn"] = 110541,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 153615,
+										["n_min"] = 21744,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 198761,
+										["c_max"] = 45146,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 45146,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[204147] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 506088,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Necrodark Greysworn"] = 506088,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 506088,
+										["c_max"] = 506088,
+										["id"] = 204147,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 506088,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[242712] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 387981,
+										["g_amt"] = 0,
+										["n_max"] = 95094,
+										["targets"] = {
+											["Frozen Mist"] = 95093,
+											["Necrodark Greysworn"] = 578168,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 285280,
+										["n_min"] = 95093,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 673261,
+										["c_max"] = 193991,
+										["id"] = 242712,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 193990,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[120361] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 101468,
+										["g_amt"] = 0,
+										["n_max"] = 25159,
+										["targets"] = {
+											["Necrodark Greysworn"] = 297634,
+											["Dark Tendril"] = 172297,
+											["Frozen Mist"] = 100246,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 468709,
+										["n_min"] = 24173,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["total"] = 570177,
+										["c_max"] = 51262,
+										["id"] = 120361,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 50206,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 19,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[214581] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1260162,
+										["g_amt"] = 0,
+										["n_max"] = 205909,
+										["targets"] = {
+											["Frozen Mist"] = 625963,
+											["Dark Tendril"] = 831871,
+											["Necrodark Greysworn"] = 625962,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 823634,
+										["n_min"] = 205908,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 2083796,
+										["c_max"] = 420054,
+										["id"] = 214581,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 420054,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["total"] = 7288742.003097,
+							["on_hold"] = false,
+							["last_event"] = 1525878903,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003097,
+							["start_time"] = 1525878878,
+							["delay"] = 0,
+							["last_dps"] = 283929.025090429,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.001947,
+							["damage_from"] = {
+								["Necrodark Greysworn"] = true,
+								["Dark Tendril"] = true,
+								["Frozen Mist"] = true,
+							},
+							["targets"] = {
+								["Necrodark Greysworn"] = 190642,
+								["Dark Tendril"] = 222432,
+								["Frozen Mist"] = 27429,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 440503.001947,
+							["classe"] = "PET",
+							["dps_started"] = false,
+							["total"] = 440503.001947,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 49771,
+										["g_amt"] = 0,
+										["n_max"] = 15249,
+										["targets"] = {
+											["Dark Tendril"] = 88931,
+											["Necrodark Greysworn"] = 73680,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 112840,
+										["n_min"] = 12198,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 162611,
+										["c_max"] = 24886,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 24885,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[63900] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 25865,
+										["g_amt"] = 0,
+										["n_max"] = 12679,
+										["targets"] = {
+											["Dark Tendril"] = 51223,
+											["Necrodark Greysworn"] = 25358,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 50716,
+										["n_min"] = 12679,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 76581,
+										["c_max"] = 25865,
+										["id"] = 63900,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 25865,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[17253] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 95922,
+										["g_amt"] = 0,
+										["n_max"] = 27429,
+										["targets"] = {
+											["Frozen Mist"] = 27429,
+											["Dark Tendril"] = 82278,
+											["Necrodark Greysworn"] = 91604,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 105389,
+										["n_min"] = 23929,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 201311,
+										["c_max"] = 55616,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 40306,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1525878904,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525878902,
+							["damage_taken"] = 508532.001947,
+							["start_time"] = 1525878879,
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.005576,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Dark Tendril"] = 87678,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 87678.005576,
+							["classe"] = "PET",
+							["dps_started"] = false,
+							["total"] = 87678.005576,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000731065",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 14613,
+										["targets"] = {
+											["Dark Tendril"] = 87678,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 87678,
+										["n_min"] = 14613,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 87678,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1525878904,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525878902,
+							["damage_taken"] = 0.005576,
+							["start_time"] = 1525878895,
+							["delay"] = 1525878892,
+							["friendlyfire"] = {
+							},
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 29,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 848.008435,
+							["total_without_pet"] = 130797.008435,
+							["total"] = 138838.008435,
+							["spec"] = 254,
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3725-01B1FA45",
+							["totalabsorb"] = 0.008435,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Franklin <Joeylose>"] = 8041,
+								["Joeylose"] = 130797,
+							},
+							["totalover_without_pet"] = 0.008435,
+							["healing_taken"] = 130797.008435,
+							["fight_component"] = true,
+							["end_time"] = 1525878904,
+							["healing_from"] = {
+								["Joeylose"] = true,
+							},
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 28155,
+										["targets"] = {
+											["Joeylose"] = 130797,
+										},
+										["n_min"] = 420,
+										["counter"] = 20,
+										["overheal"] = 0,
+										["total"] = 130797,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 130797,
+										["n_amt"] = 20,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["classe"] = "HUNTER",
+							["last_event"] = 1525878904,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["start_time"] = 1525878878,
+							["totaldenied"] = 0.008435,
+							["delay"] = 0,
+							["targets_absorbs"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["healing_from"] = {
+								["Franklin <Joeylose>"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.001238,
+							["total_without_pet"] = 8041.001238,
+							["total"] = 8041.001238,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["totalabsorb"] = 0.001238,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Franklin <Joeylose>"] = 8041,
+							},
+							["totalover_without_pet"] = 0.001238,
+							["healing_taken"] = 8041.001238,
+							["fight_component"] = true,
+							["end_time"] = 1525878904,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 2264,
+										["targets"] = {
+											["Franklin <Joeylose>"] = 8041,
+										},
+										["n_min"] = 785,
+										["counter"] = 5,
+										["overheal"] = 0,
+										["total"] = 8041,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 8041,
+										["n_amt"] = 5,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["start_time"] = 1525878880,
+							["targets_overheal"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1525878901,
+							["classe"] = "PET",
+							["totaldenied"] = 0.001238,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["targets_overheal"] = {
+								["Dark Minion <Joeylose>"] = 848,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 848.004139,
+							["total_without_pet"] = 0.004139,
+							["total"] = 0.004139,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000731065",
+							["totalabsorb"] = 0.004139,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.004139,
+							["healing_taken"] = 0.004139,
+							["end_time"] = 1525878904,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Dark Minion <Joeylose>"] = 848,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Dark Minion <Joeylose>"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 848,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 1,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["healing_from"] = {
+							},
+							["start_time"] = 1525878903,
+							["custom"] = 0,
+							["last_event"] = 1525878890,
+							["classe"] = "PET",
+							["totaldenied"] = 0.004139,
+							["delay"] = 1525878890,
+							["tipo"] = 2,
+						}, -- [3]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 29,
+					["_ActorTable"] = {
+						{
+							["received"] = 34.008887,
+							["resource"] = 0.008887,
+							["targets"] = {
+								["Joeylose"] = 34,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 6,
+							["classe"] = "HUNTER",
+							["fight_component"] = true,
+							["total"] = 34.008887,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["tipo"] = 3,
+							["alternatepower"] = 0.008887,
+							["spells"] = {
+								["_ActorTable"] = {
+									[214579] = {
+										["id"] = 214579,
+										["total"] = 34,
+										["targets"] = {
+											["Joeylose"] = 34,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["last_event"] = 1525878895,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 29,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[185365] = {
+										["appliedamt"] = 7,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 3,
+										["id"] = 185365,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[187131] = {
+										["appliedamt"] = 14,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 16,
+										["id"] = 187131,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[242712] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 4,
+										["id"] = 242712,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[194599] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 9,
+										["id"] = 194599,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 113,
+							["classe"] = "HUNTER",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[186401] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 26,
+										["id"] = 186401,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223138] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 15,
+										["id"] = 223138,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204495] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 204495,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93827] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 26,
+										["id"] = 93827,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193534] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 25,
+										["id"] = 193534,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204477] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 204477,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204090] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 204090,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[120360] = {
+										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 120360,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[35079] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 35079,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 32,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 254,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[185901] = 2,
+								[186070] = 2,
+								[19434] = 1,
+								[194599] = 2,
+								[214579] = 3,
+								[204147] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["nome"] = "Joeylose",
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["last_event"] = 1525878904,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000731065",
+							["spell_cast"] = {
+								[204683] = 2,
+							},
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 29,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joeylose"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Necrodark Greysworn",
+				["combat_counter"] = 48,
+				["playing_solo"] = true,
+				["totals"] = {
+					7288741.98906, -- [1]
+					138838, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 34,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joeylose"] = 138838.008435,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Joeylose"] = 7288742.003097,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 27839.417,
+				["combat_id"] = 29,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["frags"] = {
+					["Frozen Mist"] = 1,
+					["Dark Tendril"] = 1,
+					["Necrodark Greysworn"] = 1,
+				},
+				["data_fim"] = "01:15:04",
+				["contra"] = "Dark Tendril",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					6760561, -- [1]
+					130797, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 34,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 27813.746,
+				["TimeData"] = {
+				},
+				["data_inicio"] = "01:14:39",
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006881,
+							["damage_from"] = {
+								["Highmountain Protector"] = true,
+								["Joeylose"] = true,
+							},
+							["targets"] = {
+								["Highmountain Protector"] = 3129468,
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["damage_taken"] = 109.006881,
+							["fight_component"] = true,
+							["friendlyfire_total"] = 4,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2804491.006881,
+							["spells"] = {
+								["_ActorTable"] = {
+									[212621] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 190658,
+										["targets"] = {
+											["Highmountain Protector"] = 380771,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 380771,
+										["n_min"] = 190113,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 380771,
+										["c_max"] = 0,
+										["id"] = 212621,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[75] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 110477,
+										["g_amt"] = 0,
+										["n_max"] = 22139,
+										["targets"] = {
+											["Highmountain Protector"] = 197403,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 86926,
+										["n_min"] = 21564,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 197403,
+										["c_max"] = 66568,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 43909,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[194599] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 61777,
+										["targets"] = {
+											["Highmountain Protector"] = 247108,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 247108,
+										["n_min"] = 61777,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 247108,
+										["c_max"] = 0,
+										["id"] = 194599,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[191043] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 33611,
+										["targets"] = {
+											["Highmountain Protector"] = 197607,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 197607,
+										["n_min"] = 32619,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 197607,
+										["c_max"] = 0,
+										["id"] = 191043,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[19434] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 248059,
+										["targets"] = {
+											["Highmountain Protector"] = 739704,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 739704,
+										["n_min"] = 244663,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 739704,
+										["c_max"] = 0,
+										["id"] = 19434,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[214581] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 630080,
+										["g_amt"] = 0,
+										["n_max"] = 205909,
+										["targets"] = {
+											["Highmountain Protector"] = 1041898,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 411818,
+										["n_min"] = 205909,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1041898,
+										["c_max"] = 630080,
+										["id"] = 214581,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 630080,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["dps_started"] = false,
+							["total"] = 3129468.006881,
+							["classe"] = "HUNTER",
+							["friendlyfire"] = {
+								["Joeylose"] = {
+									["spells"] = {
+										[204496] = 4,
+									},
+									["total"] = 4,
+								},
+							},
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["end_time"] = 1525878871,
+							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1525878870,
+							["last_dps"] = 218752.132453634,
+							["start_time"] = 1525878856,
+							["delay"] = 0,
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.003597,
+							["damage_from"] = {
+								["Highmountain Protector"] = true,
+							},
+							["targets"] = {
+								["Highmountain Protector"] = 222099,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 222099.003597,
+							["classe"] = "PET",
+							["dps_started"] = false,
+							["total"] = 222099.003597,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 24886,
+										["g_amt"] = 0,
+										["n_max"] = 12199,
+										["targets"] = {
+											["Highmountain Protector"] = 110278,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 85392,
+										["n_min"] = 12198,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 110278,
+										["c_max"] = 24886,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 24886,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[63900] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12679,
+										["targets"] = {
+											["Highmountain Protector"] = 25358,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 25358,
+										["n_min"] = 12679,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 25358,
+										["c_max"] = 0,
+										["id"] = 63900,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[17253] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24033,
+										["targets"] = {
+											["Highmountain Protector"] = 86463,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 86463,
+										["n_min"] = 19901,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 86463,
+										["c_max"] = 0,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1525878871,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525878869,
+							["damage_taken"] = 91655.003597,
+							["start_time"] = 1525878857,
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.005619,
+							["damage_from"] = {
+								["Highmountain Protector"] = true,
+							},
+							["targets"] = {
+								["Highmountain Protector"] = 102878,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 102878.005619,
+							["classe"] = "PET",
+							["dps_started"] = false,
+							["total"] = 102878.005619,
+							["serial"] = "Creature-0-3888-1220-12884-94072-000073104B",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 29811,
+										["g_amt"] = 0,
+										["n_max"] = 14614,
+										["targets"] = {
+											["Highmountain Protector"] = 102878,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73067,
+										["n_min"] = 14613,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 102878,
+										["c_max"] = 29811,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 29811,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["end_time"] = 1525878871,
+							["tipo"] = 1,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525878866,
+							["damage_taken"] = 121341.005619,
+							["start_time"] = 1525878858,
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.008551,
+							["total_without_pet"] = 54261.008551,
+							["total"] = 59983.008551,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3725-01B1FA45",
+							["totalabsorb"] = 0.008551,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Joeylose"] = 54261,
+								["Franklin <Joeylose>"] = 4297,
+								["Dark Minion <Joeylose>"] = 1425,
+							},
+							["totalover_without_pet"] = 0.008551,
+							["healing_taken"] = 54261.008551,
+							["fight_component"] = true,
+							["end_time"] = 1525878871,
+							["healing_from"] = {
+								["Joeylose"] = true,
+							},
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15880,
+										["targets"] = {
+											["Joeylose"] = 54261,
+										},
+										["n_min"] = 418,
+										["counter"] = 12,
+										["overheal"] = 0,
+										["total"] = 54261,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 54261,
+										["n_amt"] = 12,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["spec"] = 254,
+							["classe"] = "HUNTER",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["start_time"] = 1525878857,
+							["totaldenied"] = 0.008551,
+							["delay"] = 0,
+							["last_event"] = 1525878870,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["healing_from"] = {
+								["Franklin <Joeylose>"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.001541,
+							["total_without_pet"] = 4297.001541,
+							["total"] = 4297.001541,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["totalabsorb"] = 0.001541,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Franklin <Joeylose>"] = 4297,
+							},
+							["totalover_without_pet"] = 0.001541,
+							["healing_taken"] = 4297.001541,
+							["fight_component"] = true,
+							["end_time"] = 1525878871,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1786,
+										["targets"] = {
+											["Franklin <Joeylose>"] = 4297,
+										},
+										["n_min"] = 1182,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 4297,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 4297,
+										["n_amt"] = 3,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["start_time"] = 1525878859,
+							["targets_overheal"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1525878869,
+							["classe"] = "PET",
+							["totaldenied"] = 0.001541,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["healing_from"] = {
+								["Dark Minion <Joeylose>"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.008307,
+							["total_without_pet"] = 1425.008307,
+							["total"] = 1425.008307,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3888-1220-12884-94072-000073104B",
+							["totalabsorb"] = 0.008307,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Dark Minion <Joeylose>"] = 1425,
+							},
+							["totalover_without_pet"] = 0.008307,
+							["healing_taken"] = 1425.008307,
+							["fight_component"] = true,
+							["end_time"] = 1525878871,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1425,
+										["targets"] = {
+											["Dark Minion <Joeylose>"] = 1425,
+										},
+										["n_min"] = 1425,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 1425,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 1425,
+										["n_amt"] = 1,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["start_time"] = 1525878863,
+							["targets_overheal"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1525878863,
+							["classe"] = "PET",
+							["totaldenied"] = 0.008307,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [3]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["received"] = 80.001281,
+							["resource"] = 0.001281,
+							["targets"] = {
+								["Joeylose"] = 80,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "HUNTER",
+							["fight_component"] = true,
+							["total"] = 80.001281,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["tipo"] = 3,
+							["alternatepower"] = 0.001281,
+							["spells"] = {
+								["_ActorTable"] = {
+									[214579] = {
+										["id"] = 214579,
+										["total"] = 80,
+										["targets"] = {
+											["Joeylose"] = 80,
+										},
+										["counter"] = 2,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["last_event"] = 1525878869,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[185365] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 4,
+										["id"] = 185365,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[187131] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 14,
+										["id"] = 187131,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[194599] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 8,
+										["id"] = 194599,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 73,
+							["classe"] = "HUNTER",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[193534] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 193534,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204090] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 204090,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193526] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 193526,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186401] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 186401,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223138] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 223138,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204495] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 204495,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93827] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 93827,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[191342] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 191342,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 26,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 254,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[185901] = 2,
+								[186070] = 1,
+								[19434] = 3,
+								[194599] = 1,
+								[214579] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["nome"] = "Joeylose",
+							["pets"] = {
+								"Franklin <Joeylose>", -- [1]
+								"Dark Minion <Joeylose>", -- [2]
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["last_event"] = 1525878871,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[2649] = 2,
+								[63900] = 2,
+								[17253] = 4,
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["pets"] = {
+							},
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[204683] = 1,
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3888-1220-12884-94072-000073104B",
+							["pets"] = {
+							},
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joeylose"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Highmountain Protector",
+				["combat_counter"] = 47,
+				["playing_solo"] = true,
+				["totals"] = {
+					3129467.994253, -- [1]
+					59983, -- [2]
+					{
+						0, -- [1]
+						[0] = 80,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joeylose"] = 59983.008551,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Joeylose"] = 3129468.006881,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 27806.621,
+				["combat_id"] = 28,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["frags"] = {
+					["Highmountain Protector"] = 1,
+				},
+				["data_fim"] = "01:14:31",
+				["contra"] = "Highmountain Protector",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					2804495, -- [1]
+					54261, -- [2]
+					{
+						0, -- [1]
+						[0] = 80,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 27792.315,
+				["TimeData"] = {
+				},
+				["data_inicio"] = "01:14:17",
+			}, -- [4]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 27,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00144,
+							["damage_from"] = {
+								["Highmountain Protector"] = true,
+								["Frozen Mist"] = true,
+							},
+							["targets"] = {
+								["Frozen Mist"] = 1561919,
+								["Necrodark Greysworn"] = 3233390,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["pets"] = {
+								"Dark Minion <Joeylose>", -- [1]
+								"Franklin <Joeylose>", -- [2]
+							},
+							["colocacao"] = 1,
+							["total"] = 4795309.00144,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4192149.00144,
+							["spells"] = {
+								["_ActorTable"] = {
+									[212621] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 384712,
+										["g_amt"] = 0,
+										["n_max"] = 194095,
+										["targets"] = {
+											["Necrodark Greysworn"] = 578807,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 194095,
+										["n_min"] = 194095,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 578807,
+										["c_max"] = 384712,
+										["id"] = 212621,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 384712,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[191070] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66713,
+										["targets"] = {
+											["Necrodark Greysworn"] = 133426,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 133426,
+										["n_min"] = 66713,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 133426,
+										["c_max"] = 0,
+										["id"] = 191070,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[194599] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 466665,
+										["g_amt"] = 0,
+										["n_max"] = 61777,
+										["targets"] = {
+											["Frozen Mist"] = 457769,
+											["Necrodark Greysworn"] = 317781,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 308885,
+										["n_min"] = 61777,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 775550,
+										["c_max"] = 201764,
+										["id"] = 194599,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 132450,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[214581] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 420054,
+										["g_amt"] = 0,
+										["n_max"] = 205908,
+										["targets"] = {
+											["Necrodark Greysworn"] = 831870,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 411816,
+										["n_min"] = 205908,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 831870,
+										["c_max"] = 420054,
+										["id"] = 214581,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 420054,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[75] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 132352,
+										["g_amt"] = 0,
+										["n_max"] = 22184,
+										["targets"] = {
+											["Frozen Mist"] = 87136,
+											["Necrodark Greysworn"] = 175690,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 130474,
+										["n_min"] = 21499,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 262826,
+										["c_max"] = 44195,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 44039,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[186387] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 12090,
+										["targets"] = {
+											["Frozen Mist"] = 12090,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12090,
+										["n_min"] = 12090,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 12090,
+										["c_max"] = 0,
+										["id"] = 186387,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[191043] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 92475,
+										["g_amt"] = 0,
+										["n_max"] = 21727,
+										["targets"] = {
+											["Frozen Mist"] = 178584,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 86109,
+										["n_min"] = 21346,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 178584,
+										["c_max"] = 46580,
+										["id"] = 191043,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 45895,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[120361] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 51065,
+										["g_amt"] = 0,
+										["n_max"] = 25128,
+										["targets"] = {
+											["Necrodark Greysworn"] = 49183,
+											["Frozen Mist"] = 150710,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 148828,
+										["n_min"] = 24215,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 199893,
+										["c_max"] = 51065,
+										["id"] = 120361,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 51065,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[19434] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 819306,
+										["g_amt"] = 0,
+										["n_max"] = 245891,
+										["targets"] = {
+											["Frozen Mist"] = 455995,
+											["Necrodark Greysworn"] = 763108,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 399797,
+										["n_min"] = 153906,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1219103,
+										["c_max"] = 517217,
+										["id"] = 19434,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 302089,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["dps_started"] = false,
+							["end_time"] = 1525878845,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["classe"] = "HUNTER",
+							["last_dps"] = 192644.584663347,
+							["custom"] = 0,
+							["last_event"] = 1525878845,
+							["on_hold"] = false,
+							["start_time"] = 1525878820,
+							["delay"] = 0,
+							["damage_taken"] = 105444.00144,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.001162,
+							["damage_from"] = {
+								["Frozen Mist"] = true,
+								["Necrodark Greysworn"] = true,
+							},
+							["targets"] = {
+								["Frozen Mist"] = 116175,
+								["Necrodark Greysworn"] = 309874,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PET",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 426049.001162,
+							["total"] = 426049.001162,
+							["dps_started"] = false,
+							["end_time"] = 1525878845,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 49772,
+										["g_amt"] = 0,
+										["n_max"] = 15249,
+										["targets"] = {
+											["Frozen Mist"] = 49284,
+											["Necrodark Greysworn"] = 113329,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 112841,
+										["n_min"] = 12199,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 162613,
+										["c_max"] = 24886,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 24886,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[63900] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 51731,
+										["g_amt"] = 0,
+										["n_max"] = 12679,
+										["targets"] = {
+											["Frozen Mist"] = 25865,
+											["Necrodark Greysworn"] = 38545,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12679,
+										["n_min"] = 12679,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 64410,
+										["c_max"] = 25866,
+										["id"] = 63900,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 25865,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[17253] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 105099,
+										["g_amt"] = 0,
+										["n_max"] = 27670,
+										["targets"] = {
+											["Frozen Mist"] = 41026,
+											["Necrodark Greysworn"] = 158000,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 93927,
+										["n_min"] = 20350,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 199026,
+										["c_max"] = 55378,
+										["id"] = 17253,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 49721,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1525878844,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 134943.001162,
+							["start_time"] = 1525878822,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.008471,
+							["damage_from"] = {
+								["Frozen Mist"] = true,
+								["Necrodark Greysworn"] = true,
+							},
+							["targets"] = {
+								["Frozen Mist"] = 103460,
+								["Necrodark Greysworn"] = 73651,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PET",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 177111.008471,
+							["total"] = 177111.008471,
+							["dps_started"] = false,
+							["end_time"] = 1525878845,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000731024",
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 89432,
+										["g_amt"] = 0,
+										["n_max"] = 14614,
+										["targets"] = {
+											["Frozen Mist"] = 103460,
+											["Necrodark Greysworn"] = 73651,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 87679,
+										["n_min"] = 14613,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 177111,
+										["c_max"] = 29811,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 29810,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1525878844,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 384573.008471,
+							["start_time"] = 1525878832,
+							["delay"] = 1525878826,
+							["friendlyfire_total"] = 0,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 27,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Joeylose"] = true,
+							},
+							["pets"] = {
+								"Dark Minion <Joeylose>", -- [1]
+								"Franklin <Joeylose>", -- [2]
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "HUNTER",
+							["totalover"] = 0.003063,
+							["total_without_pet"] = 81105.003063,
+							["total"] = 90496.003063,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3725-01B1FA45",
+							["totalabsorb"] = 0.003063,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Joeylose"] = 81105,
+								["Franklin <Joeylose>"] = 7107,
+								["Dark Minion <Joeylose>"] = 2284,
+							},
+							["totalover_without_pet"] = 0.003063,
+							["healing_taken"] = 81105.003063,
+							["fight_component"] = true,
+							["end_time"] = 1525878845,
+							["targets_overheal"] = {
+							},
+							["nome"] = "Joeylose",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 15570,
+										["targets"] = {
+											["Joeylose"] = 81105,
+										},
+										["n_min"] = 416,
+										["counter"] = 18,
+										["overheal"] = 0,
+										["total"] = 81105,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 81105,
+										["n_amt"] = 18,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["spec"] = 254,
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1525878845,
+							["start_time"] = 1525878820,
+							["totaldenied"] = 0.003063,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["healing_from"] = {
+								["Dark Minion <Joeylose>"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.002892,
+							["total_without_pet"] = 2284.002892,
+							["total"] = 2284.002892,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000731024",
+							["totalabsorb"] = 0.002892,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Dark Minion <Joeylose>"] = 2284,
+							},
+							["totalover_without_pet"] = 0.002892,
+							["healing_taken"] = 2284.002892,
+							["fight_component"] = true,
+							["end_time"] = 1525878845,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1143,
+										["targets"] = {
+											["Dark Minion <Joeylose>"] = 2284,
+										},
+										["n_min"] = 1141,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 2284,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 2284,
+										["n_amt"] = 2,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["start_time"] = 1525878841,
+							["targets_overheal"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1525878841,
+							["classe"] = "PET",
+							["totaldenied"] = 0.002892,
+							["delay"] = 1525878825,
+							["tipo"] = 2,
+						}, -- [2]
+						{
+							["flag_original"] = 4369,
+							["healing_from"] = {
+								["Franklin <Joeylose>"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.002209,
+							["total_without_pet"] = 7107.002209,
+							["total"] = 7107.002209,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["totalabsorb"] = 0.002209,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Franklin <Joeylose>"] = 7107,
+							},
+							["totalover_without_pet"] = 0.002209,
+							["healing_taken"] = 7107.002209,
+							["fight_component"] = true,
+							["end_time"] = 1525878845,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["spells"] = {
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 2205,
+										["targets"] = {
+											["Franklin <Joeylose>"] = 7107,
+										},
+										["n_min"] = 1112,
+										["counter"] = 4,
+										["overheal"] = 0,
+										["total"] = 7107,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 7107,
+										["n_amt"] = 4,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["start_time"] = 1525878827,
+							["targets_overheal"] = {
+							},
+							["custom"] = 0,
+							["last_event"] = 1525878843,
+							["classe"] = "PET",
+							["totaldenied"] = 0.002209,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [3]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 27,
+					["_ActorTable"] = {
+						{
+							["received"] = 80.006498,
+							["resource"] = 0.006498,
+							["targets"] = {
+								["Joeylose"] = 80,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "HUNTER",
+							["fight_component"] = true,
+							["total"] = 80.006498,
+							["nome"] = "Joeylose",
+							["spec"] = 254,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["tipo"] = 3,
+							["alternatepower"] = 0.006498,
+							["spells"] = {
+								["_ActorTable"] = {
+									[214579] = {
+										["id"] = 214579,
+										["total"] = 80,
+										["targets"] = {
+											["Joeylose"] = 80,
+										},
+										["counter"] = 2,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["last_event"] = 1525878832,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 27,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[194599] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 16,
+										["id"] = 194599,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[187131] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 15,
+										["id"] = 187131,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[224729] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 4,
+										["id"] = 224729,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[185365] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 4,
+										["id"] = 185365,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["nome"] = "Joeylose",
+							["pets"] = {
+								"Dark Minion <Joeylose>", -- [1]
+								"Franklin <Joeylose>", -- [2]
+							},
+							["last_event"] = 1525878845,
+							["cc_break_spells"] = {
+								["_ActorTable"] = {
+									[75] = {
+										["cc_break_oque"] = {
+											[224729] = 1,
+										},
+										["id"] = 75,
+										["cc_break"] = 1,
+										["targets"] = {
+											["Frozen Mist"] = 1,
+										},
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["classe"] = "HUNTER",
+							["interrupt_spells"] = {
+								["_ActorTable"] = {
+									[147362] = {
+										["id"] = 147362,
+										["interrompeu_oque"] = {
+											[204472] = 1,
+										},
+										["targets"] = {
+											["Frozen Mist"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[186401] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 25,
+										["id"] = 186401,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223138] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 2,
+										["id"] = 223138,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204090] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 204090,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93827] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 25,
+										["id"] = 93827,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193534] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 24,
+										["id"] = 193534,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[120360] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 120360,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[191342] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 191342,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[5384] = {
+										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 5384,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[193526] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 193526,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[35079] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 35079,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["interrompeu_oque"] = {
+								[204472] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 39,
+							["interrupt"] = 1.008276,
+							["spec"] = 254,
+							["buff_uptime_targets"] = {
+							},
+							["interrupt_targets"] = {
+								["Frozen Mist"] = 1,
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[193526] = 1,
+								[120360] = 1,
+								[147362] = 1,
+								[214579] = 3,
+								[19434] = 4,
+								[186070] = 1,
+								[186387] = 1,
+								[185901] = 2,
+								[194599] = 1,
+							},
+							["cc_break_oque"] = {
+								[224729] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["cc_break"] = 1.006212,
+							["cc_break_targets"] = {
+								["Frozen Mist"] = 1,
+							},
+							["serial"] = "Player-3725-01B1FA45",
+							["buff_uptime"] = 95,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Dark Minion <Joeylose>",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[204683] = 2,
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3888-1220-12884-94072-0000731024",
+							["pets"] = {
+							},
+						}, -- [2]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Joeylose",
+							["nome"] = "Franklin <Joeylose>",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[61685] = 1,
+								[2649] = 3,
+								[63900] = 3,
+								[17253] = 6,
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Pet-0-3888-1220-12884-4143-0D005486D9",
+							["pets"] = {
+							},
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 27,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joeylose"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Frozen Mist",
+				["combat_counter"] = 46,
+				["playing_solo"] = true,
+				["totals"] = {
+					4795308.987704, -- [1]
+					90496, -- [2]
+					{
+						0, -- [1]
+						[0] = 80,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Joeylose"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							40901, -- [3]
+							1525878856.652, -- [4]
+							1536091, -- [5]
+							"Highmountain Protector", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joeylose"] = 90496.003063,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Joeylose"] = 4795309.00144,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 27780.631,
+				["combat_id"] = 27,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["frags"] = {
+					["Frozen Mist"] = 1,
+					["Necrodark Greysworn"] = 1,
+				},
+				["data_fim"] = "01:14:05",
+				["contra"] = "Necrodark Greysworn",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					4192149, -- [1]
+					81105, -- [2]
+					{
+						0, -- [1]
+						[0] = 80,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 27755.739,
+				["TimeData"] = {
+				},
+				["data_inicio"] = "01:13:41",
+			}, -- [5]
+		},
+	},
+	["last_version"] = "v7.3.5.5572",
+	["force_font_outline"] = "",
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -504.166442871094,
+					["x"] = 852.082397460938,
+					["w"] = 415.833557128906,
+					["h"] = 139.999954223633,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_talents"] = {
+		["Player-3725-01B1FA45"] = {
+			22274, -- [1]
+			22499, -- [2]
+			22501, -- [3]
+			21998, -- [4]
+			22002, -- [5]
+			19347, -- [6]
+			22497, -- [7]
+		},
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Joeylose-Frostmourne",
+	["last_realversion"] = 130,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["author"] = "Details! Team",
+			["dps"] = 0,
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = true,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				299.999938964844, -- [1]
+				499.999908447266, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 192.260457485209,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["main_frame_strata"] = "LOW",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["point"] = "CENTER",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 6.1035156250e-005,
+				["x"] = -6.1035156250e-005,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = -4.577636718750e-005,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["use_spark"] = true,
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1527169998,
+		["last_version"] = 10,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["combat_counter"] = 52,
+	["combat_id"] = 31,
+	["savedStyles"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.004986,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Necrodark Defiler"] = 0,
+						["Dark Tendril"] = 0,
+						["Frozen Mist"] = 0,
+						["Necrodark Greysworn"] = 0,
+						["Highmountain Protector"] = 0,
+						["Shadow Lurker <Necrodark Defiler>"] = 0,
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["classe"] = "HUNTER",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.004986,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1525907136,
+					["spells"] = {
+						["_ActorTable"] = {
+							[212621] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Defiler"] = 0,
+									["Dark Tendril"] = 0,
+									["Frozen Mist"] = 0,
+									["Necrodark Greysworn"] = 0,
+									["Highmountain Protector"] = 0,
+									["Shadow Lurker <Necrodark Defiler>"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 212621,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[191070] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Defiler"] = 0,
+									["Dark Tendril"] = 0,
+									["Necrodark Greysworn"] = 0,
+									["Frozen Mist"] = 0,
+									["Shadow Lurker <Necrodark Defiler>"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 191070,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[194599] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Dark Tendril"] = 0,
+									["Frozen Mist"] = 0,
+									["Highmountain Protector"] = 0,
+									["Necrodark Greysworn"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 194599,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[214581] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Defiler"] = 0,
+									["Dark Tendril"] = 0,
+									["Necrodark Greysworn"] = 0,
+									["Frozen Mist"] = 0,
+									["Highmountain Protector"] = 0,
+									["Shadow Lurker <Necrodark Defiler>"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 214581,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[75] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Defiler"] = 0,
+									["Highmountain Protector"] = 0,
+									["Necrodark Greysworn"] = 0,
+									["Dark Tendril"] = 0,
+									["Frozen Mist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 75,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[204147] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Greysworn"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 204147,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[19434] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Frozen Mist"] = 0,
+									["Necrodark Defiler"] = 0,
+									["Highmountain Protector"] = 0,
+									["Necrodark Greysworn"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 19434,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[120361] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Defiler"] = 0,
+									["Dark Tendril"] = 0,
+									["Frozen Mist"] = 0,
+									["Necrodark Greysworn"] = 0,
+									["Shadow Lurker <Necrodark Defiler>"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 120361,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[191043] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Frozen Mist"] = 0,
+									["Highmountain Protector"] = 0,
+									["Necrodark Greysworn"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 191043,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[242712] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Necrodark Greysworn"] = 0,
+									["Frozen Mist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 242712,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[186387] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Frozen Mist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 186387,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 0.004986,
+					["nome"] = "Joeylose",
+					["spec"] = 254,
+					["grupo"] = true,
+					["total"] = 0.004986,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1525907133,
+					["serial"] = "Player-3725-01B1FA45",
+					["friendlyfire"] = {
+						["Joeylose"] = {
+							["total"] = 0,
+							["spells"] = {
+								[204496] = 0,
+							},
+						},
+					},
+				}, -- [1]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.002917,
+					["total_without_pet"] = 0.002917,
+					["total"] = 0.002917,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-3725-01B1FA45",
+					["totalabsorb"] = 0.002917,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Joeylose"] = 0,
+						["Franklin <Joeylose>"] = 0,
+						["Dark Minion <Joeylose>"] = 0,
+					},
+					["totalover_without_pet"] = 0.002917,
+					["healing_taken"] = 0.002917,
+					["fight_component"] = true,
+					["end_time"] = 1525907136,
+					["spec"] = 254,
+					["nome"] = "Joeylose",
+					["spells"] = {
+						["_ActorTable"] = {
+							[143924] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Joeylose"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 143924,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 0,
+								["n_curado"] = 0,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["healing_from"] = {
+					},
+					["tipo"] = 2,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["totaldenied"] = 0.002917,
+					["start_time"] = 1525907133,
+					["delay"] = 0,
+					["classe"] = "HUNTER",
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 0.006959,
+					["resource"] = 0.047989,
+					["targets"] = {
+						["Joeylose"] = 0,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "HUNTER",
+					["fight_component"] = true,
+					["total"] = 0.006959,
+					["nome"] = "Joeylose",
+					["spec"] = 254,
+					["grupo"] = true,
+					["flag_original"] = 1297,
+					["tipo"] = 3,
+					["alternatepower"] = 0.006959,
+					["last_event"] = 0,
+					["serial"] = "Player-3725-01B1FA45",
+					["spells"] = {
+						["_ActorTable"] = {
+							[214579] = {
+								["id"] = 214579,
+								["total"] = 0,
+								["targets"] = {
+									["Joeylose"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 7,
+					},
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[185365] = {
+								["id"] = 185365,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[194599] = {
+								["id"] = 194599,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[187131] = {
+								["id"] = 187131,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[242712] = {
+								["id"] = 242712,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[224729] = {
+								["id"] = 224729,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["cc_break_spells"] = {
+						["_ActorTable"] = {
+							[75] = {
+								["id"] = 75,
+								["cc_break_oque"] = {
+								},
+								["targets"] = {
+									["Frozen Mist"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["buff_uptime"] = 0,
+					["grupo"] = true,
+					["pets"] = {
+					},
+					["classe"] = "HUNTER",
+					["interrupt_spells"] = {
+						["_ActorTable"] = {
+							[147362] = {
+								["id"] = 147362,
+								["counter"] = 0,
+								["targets"] = {
+									["Frozen Mist"] = 0,
+								},
+								["interrompeu_oque"] = {
+								},
+							},
+						},
+						["tipo"] = 9,
+					},
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[186401] = {
+								["id"] = 186401,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[223138] = {
+								["id"] = 223138,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[204495] = {
+								["id"] = 204495,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[93827] = {
+								["id"] = 93827,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[193534] = {
+								["id"] = 193534,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[35079] = {
+								["id"] = 35079,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[120360] = {
+								["id"] = 120360,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[204090] = {
+								["id"] = 204090,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[204477] = {
+								["id"] = 204477,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[193526] = {
+								["id"] = 193526,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[191342] = {
+								["id"] = 191342,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[5384] = {
+								["id"] = 5384,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[190515] = {
+								["id"] = 190515,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[118922] = {
+								["id"] = 118922,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["interrompeu_oque"] = {
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 0,
+					["nome"] = "Joeylose",
+					["tipo"] = 4,
+					["buff_uptime_targets"] = {
+					},
+					["interrupt_targets"] = {
+						["Frozen Mist"] = 0,
+					},
+					["cc_break"] = 0,
+					["spell_cast"] = {
+						[34477] = 0,
+						[193526] = 0,
+						[120360] = 0,
+						[781] = 0,
+						[147362] = 0,
+						[214579] = 0,
+						[19434] = 0,
+						[186070] = 0,
+						[204147] = 0,
+						[194599] = 0,
+						[185901] = 0,
+						[186387] = 0,
+						[83242] = 0,
+					},
+					["cc_break_oque"] = {
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["last_event"] = 0,
+					["spec"] = 254,
+					["cc_break_targets"] = {
+						["Frozen Mist"] = 0,
+					},
+					["serial"] = "Player-3725-01B1FA45",
+					["interrupt"] = 0,
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 3,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["data_inicio"] = 0,
+		["CombatSkillCache"] = {
+		},
+		["player_last_events"] = {
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["overall_refreshed"] = true,
+	},
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["character_data"] = {
+		["logons"] = 3,
+	},
+	["last_day"] = "10",
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-3725-01B1FA45"] = 254,
+		["Player-3723-0A46B479"] = 251,
+	},
+}

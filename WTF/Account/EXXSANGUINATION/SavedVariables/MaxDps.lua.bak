@@ -1,0 +1,13 @@
+
+MaxDpsOptions = {
+	["profileKeys"] = {
+		["Judgedruidy - Frostmourne"] = "Judgedruidy - Frostmourne",
+		["Hornydaemon - Frostmourne"] = "Hornydaemon - Frostmourne",
+		["Moosenuckle - Jubei'Thos"] = "Moosenuckle - Jubei'Thos",
+		["Shammyjay - Frostmourne"] = "Shammyjay - Frostmourne",
+	},
+	["global"] = {
+		["customRotations"] = {
+		},
+	},
+}

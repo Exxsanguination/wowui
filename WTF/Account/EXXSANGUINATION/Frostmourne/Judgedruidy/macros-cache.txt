@@ -1,0 +1,69 @@
+VER 3 010000000000000B "Burst" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/Cast Charm of the Rising Tide 
+/Cast Incarnation: chosen of elune
+/cast Celestial alignment
+END
+VER 3 0100000000000009 "Cure" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Nature's Cure
+END
+VER 3 0100000000000002 "Displace Boomkin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence displacer beast, moonkin form
+END
+VER 3 0100000000000007 "Efflorescence" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Efflorescence
+END
+VER 3 0100000000000008 "IronB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Ironbark
+END
+VER 3 0100000000000006 "LifeB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Lifebloom
+END
+VER 3 0100000000000004 "Regrow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Regrowth
+END
+VER 3 0100000000000003 "Rejuv" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Rejuvenation
+END
+VER 3 0100000000000005 "Swift" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Swiftmend
+END
+VER 3 010000000000000D "Tier 30" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:2/1] Renewal
+/cast [talent:2/2] Displacer Beast
+/cast [talent:2/3] Wild Charge
+END
+VER 3 010000000000000E "Tier 60" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/1] MIghty Bash
+/cast [talent:4/2] Mass Entanglement
+/cast [talent:4/3] Typhoon
+END
+VER 3 010000000000000F "Tier 75" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:5/1] Soul of the Forest
+/cast [talent:5/2] Incarnation: Chosen of Elune
+/cast [talent:5/3] Stellar Flare
+END
+VER 3 0100000000000010 "Tier 90" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Astral Communion
+/cast [talent:6/3] Blessing of the Ancients
+END
+VER 3 010000000000000C "Tier15" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:1/1] Force of Nature
+/cast [talent:1/2] Warrior of Elune
+END
+VER 3 010000000000000A "Touch" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Healing Touch
+END

@@ -1,0 +1,147 @@
+
+APHDB = {
+	["char"] = {
+		["Iflyplanes - Frostmourne"] = {
+			["Minimized"] = true,
+			["AKLevel"] = 55,
+			["MainPosY"] = 1200.00003051758,
+			["ArtifactWeapons"] = {
+				[128942] = {
+					10, -- [1]
+					650, -- [2]
+					625, -- [3]
+					0, -- [4]
+				},
+			},
+			["MainPosX"] = 0,
+		},
+		["Skitfitta - Frostmourne"] = {
+			["MainPosX"] = 1828.33227539063,
+			["AKLevel"] = 55,
+			["MainPosY"] = 381.666618347168,
+			["ArtifactWeapons"] = {
+				[128820] = {
+					35, -- [1]
+					17588326, -- [2]
+					1635200, -- [3]
+					0, -- [4]
+				},
+				[128862] = {
+					49, -- [1]
+					96115300, -- [2]
+					237000000, -- [3]
+					0, -- [4]
+				},
+			},
+		},
+		["Judgedruidy - Frostmourne"] = {
+			["ArtifactWeapons"] = {
+				[128858] = {
+					130, -- [1]
+					4727384197, -- [2]
+					nil, -- [3]
+					1, -- [4]
+				},
+				[128821] = {
+					127, -- [1]
+					46454572040, -- [2]
+					nil, -- [3]
+					1, -- [4]
+				},
+				[128306] = {
+					129, -- [1]
+					7589303950, -- [2]
+					nil, -- [3]
+					1, -- [4]
+				},
+				[128860] = {
+					126, -- [1]
+					0, -- [2]
+					nil, -- [3]
+					0, -- [4]
+				},
+			},
+			["AKLevel"] = 55,
+			["MainPosY"] = 150.833155632019,
+			["MainPosX"] = 424.169189453125,
+		},
+		["Joeylose - Frostmourne"] = {
+			["Minimized"] = true,
+			["AKLevel"] = 55,
+			["MainPosY"] = 1200.00003051758,
+			["ArtifactWeapons"] = {
+				[128826] = {
+					44, -- [1]
+					187099050, -- [2]
+					64000000, -- [3]
+					0, -- [4]
+				},
+			},
+			["MainPosX"] = 1.66680133342743,
+		},
+		["Hornydaemon - Frostmourne"] = {
+			["AKLevel"] = 55,
+			["MainPosX"] = 434.999328613281,
+			["ArtifactWeapons"] = {
+				[128832] = {
+					131, -- [1]
+					43124559045, -- [2]
+					nil, -- [3]
+					0, -- [4]
+				},
+				[127829] = {
+					131, -- [1]
+					96290920, -- [2]
+					nil, -- [3]
+					0, -- [4]
+				},
+			},
+			["MainPosY"] = 121.001211166382,
+		},
+		["Driveparkway - Frostmourne"] = {
+			["Minimized"] = true,
+			["AKLevel"] = 55,
+			["MainPosY"] = 1200.00003051758,
+			["ArtifactWeapons"] = {
+				[128866] = {
+					39, -- [1]
+					4839060, -- [2]
+					17000000, -- [3]
+					0, -- [4]
+				},
+			},
+			["MainPosX"] = 0,
+		},
+		["Defknight - Frostmourne"] = {
+			["ArtifactWeapons"] = {
+				[128402] = {
+					1, -- [1]
+					0, -- [2]
+					100, -- [3]
+					0, -- [4]
+				},
+			},
+			["MainPosY"] = 119.166902542114,
+			["MainPosX"] = 430.833465576172,
+		},
+	},
+	["profileKeys"] = {
+		["Iflyplanes - Frostmourne"] = "Default",
+		["Judgedruidy - Frostmourne"] = "Default",
+		["Shammyjay - Frostmourne"] = "Default",
+		["Skitfitta - Frostmourne"] = "Default",
+		["Joeylose - Frostmourne"] = "Default",
+		["Hornydaemon - Frostmourne"] = "Default",
+		["Sheppanda - Frostmourne"] = "Default",
+		["Malkidd - Frostmourne"] = "Default",
+		["Moosenuckle - Jubei'Thos"] = "Default",
+		["Driveparkway - Frostmourne"] = "Default",
+		["Timmywin - Frostmourne"] = "Default",
+		["Defknight - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["newVersion"] = 2,
+		},
+	},
+}

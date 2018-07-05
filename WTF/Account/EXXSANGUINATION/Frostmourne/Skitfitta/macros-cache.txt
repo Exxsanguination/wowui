@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Tier 4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/1] Supernova; [talent:4/2] Charged Up
+END

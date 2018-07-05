@@ -1,0 +1,12 @@
+## Interface: 70200
+## Title: Artifact Power Helper
+## Author: RasuSeiro
+## Notes: Simplify and help with the whole artifact power usage and management.
+## Version: v1.3.8
+## SavedVariables: APHDB
+## OptionalDeps: Masque
+
+ids.lua
+embeds.xml
+Locales\locale.xml
+core.lua

@@ -1,0 +1,19 @@
+VER 3 0100000000000001 "Int inqu" "1305153"
+/tar Inquisitor Variss
+/cast Consume Magic
+END
+VER 3 0100000000000002 "MILL" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Milling
+/use Dreamleaf
+/use Starlight Rose
+/use Foxflower
+/use aethril
+/use Fjarnskaggl
+/use Starflower
+/use Talador Orchid
+/use Frostweed
+/use Gorgrond Flytrap
+/use Fireweed
+/use Nagrand Arrowbloom
+END

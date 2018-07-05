@@ -1,0 +1,21 @@
+
+AngryAssign_Pages = {
+}
+AngryAssign_Categories = {
+}
+AngryAssign_State = {
+	["tree"] = {
+	},
+	["display"] = {
+		["y"] = -230.333374023438,
+		["x"] = 0,
+		["point"] = "TOPLEFT",
+		["scale"] = 1,
+	},
+	["directionUp"] = false,
+	["locked"] = true,
+	["window"] = {
+	},
+}
+AngryAssign_Config = {
+}
